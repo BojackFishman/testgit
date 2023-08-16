@@ -1,3 +1,7 @@
 branch test.
 
+<<<<<<< HEAD
 this is a conflict.
+=======
+this is an conflict.
+>>>>>>> conflict
